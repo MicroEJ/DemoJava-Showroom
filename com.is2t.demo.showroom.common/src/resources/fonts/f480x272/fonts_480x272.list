@@ -1,0 +1,17 @@
+#	List
+#	
+#	Copyright 2014 IS2T. All rights reserved.
+#	IS2T PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+				
+fonts/defaultResources/open_sans_18pt_40px.ejf::4
+fonts/sScreen/state_mini.ejf::4
+fonts/sScreen/features_level_shutter.ejf::4
+fonts/sScreen/features_level.ejf::4
+fonts/sScreen/round_small.ejf::4
+fonts/sScreen/elements.ejf::4
+fonts/sScreen/state_maxi.ejf::4
+fonts/sScreen/roof.ejf::4
+fonts/sScreen/round_big.ejf::4
+fonts/sScreen/features.ejf::4
+fonts/sScreen/roomPicto.ejf::4
+fonts/f800x480/weather.ejf::4

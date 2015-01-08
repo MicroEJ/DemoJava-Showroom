@@ -1,0 +1,20 @@
+# Copyright 2014 IS2T. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found at http://www.is2t.com/open-source-bsd-license/.
+
+# Showroom
+/images/d800x480/background.png
+
+# Settings
+
+
+# Elastic
+/images/d800x480/spiderweb.png
+/images/d800x480/spider.png
+
+
+# Stretch
+/images/d800x480/stretch.png
+
+# CircularProgressBar (hardcoded display size in demo)
+/images/d480x272/instruction.png
+/images/d480x272/value.png

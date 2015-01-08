@@ -1,0 +1,42 @@
+# Copyright 2014 IS2T. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found at http://www.is2t.com/open-source-bsd-license/.
+
+
+resources/fonts/widget_picto_30px.ejf::8
+
+# Showroom
+/fonts/open_sans_11pt_22px.ejf::8
+/fonts/open_sans_14pt_30px.ejf::8
+/fonts/picto_79px.ejf::4
+/fonts/picto_40px.ejf::4
+/fonts/picto_25px.ejf::4
+/fonts/weather.ejf::4
+/fonts/big.ejf::4
+
+# Settings
+/fonts/open_sans_7pt_15px.ejf::4
+/fonts/open_sans_14pt_30px.ejf::4
+/fonts/open_sans_23pt_50px.ejf::4
+/fonts/open_sans_bold_14pt_30px.ejf::4
+
+/fonts/picto_30px.ejf::8
+/fonts/picto_50px.ejf::8
+/fonts/picto_75px.ejf::8
+
+# CircularProgressBar
+/fonts/brushes_11px.ejf::8
+/fonts/open_sans_18pt_40px.ejf::4
+
+#Domotic
+fonts/defaultResources/open_sans_18pt_40px.ejf::4
+fonts/mScreen/state_mini.ejf::4
+fonts/mScreen/features_level_shutter.ejf::4
+fonts/mScreen/features_level.ejf::4
+fonts/mScreen/round_small.ejf::4
+fonts/mScreen/elements.ejf::4
+fonts/mScreen/state_maxi.ejf::4
+fonts/mScreen/roof.ejf::4
+fonts/mScreen/round_big.ejf::4
+fonts/mScreen/features.ejf::4
+fonts/mScreen/roomPicto.ejf::4
+#fonts/f800x480/weather.ejf::4

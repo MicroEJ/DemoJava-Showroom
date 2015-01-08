@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="var" path="EDC-1.2"/>
+	<classpathentry kind="var" path="EJ.COMPONENTS-2.0"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/com.is2t.demo.settings"/>
+	<classpathentry kind="var" path="MICROUI-1.5.0"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/com.is2t.demo.launcher"/>
+	<classpathentry kind="var" path="BON-1.2"/>
+	<classpathentry kind="var" path="MWT-1.0"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/com.is2t.demo.showroom.common"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

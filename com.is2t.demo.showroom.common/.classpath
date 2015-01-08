@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/resources"/>
+	<classpathentry kind="var" path="EDC-1.2"/>
+	<classpathentry kind="var" path="EJ.COMPONENTS-2.0"/>
+	<classpathentry kind="var" path="MICROUI-1.5.0"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/com.is2t.demo.utilities"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

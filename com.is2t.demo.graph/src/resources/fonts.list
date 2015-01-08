@@ -1,0 +1,14 @@
+# Copyright 2012-2014 IS2T. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found at http://www.is2t.com/open-source-bsd-license/.
+
+
+/fonts/brushes_3px.ejf::8
+/fonts/brushes_5px.ejf::8
+/fonts/brushes_7px.ejf::8
+/fonts/brushes_9px.ejf::8
+/fonts/brushes_11px.ejf::8
+/fonts/brushes_19px.ejf::8
+
+/resources/fonts/droid_sans_15px.ejf::4
+/resources/fonts/droid_sans_24px.ejf::4
+/resources/fonts/droid_sans_40px.ejf::4
