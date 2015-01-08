@@ -1,53 +1,46 @@
 # Overview
 This showroom application demonstrates MicroEJ UI libraries features.
 
-On start-up, the application starts the desktop. It contains several applications, each represented with an icon (picto). The applications are registered with the component framework (ej.components). Touch the picto to start the application. Go back to the desktop from any application by touching the home picto in the top right corner.  
+On start-up, the application starts the desktop. It contains several applications, each represented with an icon (picto). The applications are registered with the component framework (`ej.components`). Touch the picto to start the application. Go back to the desktop from any application by touching the home picto in the top right corner.  
 
-Each application has an additional project .activor that is used by the component framework (ej.components) to add itself to the desktop (provide name, entry point, picto, how to start/top the application).
+Each application has an additional project .activor that is used by the component framework (`ej.components`) to add itself to the desktop (provide name, entry point, picto, how to start/top the application).
 
 Some demos are using the MICROUI LAYERS library and requires a specific hardware acceleration for transparency to run smoothly. To run this demo on devices without hardware transparency acceleration,  
 
 Available applications:
 
-1. Settings: This demo represents a settings menu you can find on your smartphone. It demonstrates widgets like scrolling list/text, font zoom in/out, check-box, switch, progress bar, horizontal/vertical lists.
+**Settings**: This demo represents a settings menu you can find on your smartphone. It demonstrates widgets like scrolling list/text, font zoom in/out, check-box, switch, progress bar, horizontal/vertical lists.
 Screens left/right animations are configured to use the MICROUI-LAYERS library with fade in of the incoming screen (transparency 0 to 255) and fade out of the out-coming screen (transparency 255 to 0).
-
 Project: `com.is2t.demo.settings`
 
-2. Graph: This demo shows a curve representing randomly generated data. 
+**Graph**: This demo shows a curve representing randomly generated data. 
 - You can affect the values manually by dragging the right cursor. 
 - The colourized drawing below the curve can be dynamically disabled with one of the one board button.
 - Touching the curve will stop it and display the current curve value of the touched area.
 This demo uses the NLS library for the top messages in US and FR translations.
-
 Project: `com.is2t.demo.graph`
 
-3. Domotic: A simulation of a domotic application which can control the shutters, ligh and temperature in each room of an house. No source code are provided for this demo, only a .jar.
-
+**Domotic**: A simulation of a domotic application which can control the shutters, ligh and temperature in each room of an house. No source code are provided for this demo, only a .jar.
 Project: `com.is2t.demo.domotic`
 
-4. Circular Progress Bar: demonstrates a circular progress bar. Touch the setting value on the left to set the new value. The light value on the right will progressively reach this value.
-
+**Circular Progress Bar**: demonstrates a circular progress bar. Touch the setting value on the left to set the new value. The light value on the right will progressively reach this value.
 Project: `com.is2t.demo.circularprogressbar`
 
-5. Elastic: Elastic is a small game where the goal is to move the spider on the screen which can bounce against the wall depending from the speed. An anti-aliased line is drawn between your finger and the spider.
-
+**Elastic**: Elastic is a small game where the goal is to move the spider on the screen which can bounce against the wall depending from the speed. An anti-aliased line is drawn between your finger and the spider.
 Project: `com.is2t.demo.elastic`
 
-6. Stretch: The demos shows the deformation of an image.
-
+**Stretch**: The demos shows the deformation of an image.
 Project: `com.is2t.demo.stretch`
 
-7. Desktop: is the desktop for all applications. Holds the weather, date and clock widgets.
-
+**Desktop**: is the desktop for all applications. Holds the weather, date and clock widgets.
 Project: `com.is2t.com.showroom`
 
 Other projects:
-- com.is2t.fonts: contains the common fonts used in the applications.
-- com.is2t.layers: layers framework.
-- com.is2t.transition: transition framework which use layers.
-- com.is2t.utilities: various utilities.
-- com.is2t.widgets: main widgets.
+- `com.is2t.fonts`: contains the common fonts used in the applications.
+- `com.is2t.layers`: layers framework.
+- `com.is2t.transition`: transition framework which use layers.
+- `com.is2t.utilities`: various utilities.
+- `com.is2t.widgets`: main widgets.
 
 This demo includes MicroEJ launchers configuration for the following Java platform:
 - simulator
