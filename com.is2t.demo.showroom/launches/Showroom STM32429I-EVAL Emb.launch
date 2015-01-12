@@ -94,7 +94,7 @@
 <stringAttribute key="com.is2t.microej.workbench.stdMicroEJLaunchConfigurationJPFConfigurationTabCSTART_com.is2t.microej.workbench.std.launch.ext.TextFieldOption_CENDcmx.14root.core.memory.immortal.size" value="4096"/>
 <stringAttribute key="com.is2t.microej.workbench.stdMicroEJLaunchConfigurationJPFConfigurationTabCSTART_com.is2t.microej.workbench.std.launch.ext.TextFieldOption_CENDcmx.14root.core.memory.javaheap.size" value="32768"/>
 <stringAttribute key="com.is2t.microej.workbench.stdMicroEJLaunchConfigurationJPFConfigurationTabCSTART_com.is2t.microej.workbench.std.launch.ext.TextFieldOption_CENDcmx.14root.core.memory.thread.block.size" value="512"/>
-<stringAttribute key="com.is2t.microej.workbench.stdMicroEJLaunchConfigurationJPFConfigurationTabCSTART_com.is2t.microej.workbench.std.launch.ext.TextFieldOption_CENDcmx.14root.core.memory.thread.max.size" value="2"/>
+<stringAttribute key="com.is2t.microej.workbench.stdMicroEJLaunchConfigurationJPFConfigurationTabCSTART_com.is2t.microej.workbench.std.launch.ext.TextFieldOption_CENDcmx.14root.core.memory.thread.max.size" value="4"/>
 <stringAttribute key="com.is2t.microej.workbench.stdMicroEJLaunchConfigurationJPFConfigurationTabCSTART_com.is2t.microej.workbench.std.launch.ext.TextFieldOption_CENDcmx.14root.core.memory.threads.pool.size" value="10"/>
 <stringAttribute key="com.is2t.microej.workbench.stdMicroEJLaunchConfigurationJPFConfigurationTabCSTART_com.is2t.microej.workbench.std.launch.ext.TextFieldOption_CENDcmx.14root.core.memory.threads.size" value="5"/>
 <stringAttribute key="com.is2t.microej.workbench.stdMicroEJLaunchConfigurationJPFConfigurationTabCSTART_com.is2t.microej.workbench.std.launch.ext.TextFieldOption_CENDcmx.14root.mui.edges.size" value="8"/>
