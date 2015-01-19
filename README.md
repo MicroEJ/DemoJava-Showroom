@@ -1,5 +1,6 @@
 # Overview
 This showroom application demonstrates MicroEJ UI libraries features.
+[Video](http://www.youtube.com/watch?v=Wm-UgvCvTKI).
 
 On start-up, the application starts the desktop. It contains several applications, each represented with an icon (picto). The applications are registered with the component framework (`ej.components`). Touch the picto to start the application. Go back to the desktop from any application by touching the home picto in the top right corner.  
 
